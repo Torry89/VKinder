@@ -10,7 +10,6 @@ user_id = os.getenv('ID')
 
 # Проверка работы access_token
 # class VK:
-#
 #     def __init__(self, access_token, user_id, version='5.199'):
 #         self.token = access_token
 #         self.id = user_id
